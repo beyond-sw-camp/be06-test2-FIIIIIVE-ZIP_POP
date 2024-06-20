@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mariadb://123.123.123.3:3306/test
+    username: pjs
+    password: qwer1234
+    driver-class-name: org.mariadb.jdbc.Driver
